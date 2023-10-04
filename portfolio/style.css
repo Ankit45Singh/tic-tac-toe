@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+
+}
+a{
+    text-decoration: none;
+    color: #8be6c0;
+}
+body{
+    float: left;
+}
+.ad{
+    height: 100vh;
+    width: 49.5vw;
+    background-color: #77dab9;
+    float: left;
+} 
+.so{
+    width: 35vw;
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    float: left;
+    margin-top: -85vh;
+    margin-left: 31vw;
+    background-color: rgb(21, 23, 24);
+    text-align: center;
+    background-image: url(pexels-photo-4861299.webp);
+    background-blend-mode: luminosity;
+}
+.as{
+    height: 100vh;
+    width: 49vw;
+    background-color: #085d5d;
+    float: left;
+}
+.wo{
+    font-weight: 100;
+    font-style: oblique;
+    width: 20vw;
+    margin: auto;
+    margin-top: 3vh;
+    font-family: sans-serif;
+}
+.xo{
+    margin-top: 10vh;
+    color: black;
+}
+.uo{
+    cursor: pointer;
+    margin-top: 5vh;
+    width: 12vw;
+    height: 4vh;
+    border-radius: 4px;
+    border: none;
+    background-color: #75cae6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.uo:active{
+    background-color:#0f5b74;
+    
+}
+.ew{
+    height: 100vh;
+    width: 4vw;
+    float: left;
+    background-color: #333333;
+    margin-top: -100vh;
+}
+.ew:hover{
+    width: 15vw;
+}
+.a{
+    font-size: 1em;
+    text-transform: lowercase;
+    color: #8be6c0;
+    margin-top: 10vh;
+    margin-left: 2vw;
+    overflow: hidden;
+}
+
+.icon:hover{
+    color: #085d5d;
+}
+.r{
+    float: left;
+    margin-top: -95vh;
+    /* background-color: #333333; */
+    width: 180vh;
+    height: 5vh;
+    margin-left: 5vw;
+}
+.d,.f{
+    text-decoration: none;
+    
+    font-size: 2rem;
+}
+.d{
+    margin-left: 31vw;
+    color: #75cae6;
+}
+.f{
+    margin-left: 14vw;
+    color: #085d5d;
+}
+.d:hover{
+    color: #b7deeb;;
+}
+.f:hover{
+    color: #083a3a;
+}
